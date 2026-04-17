@@ -465,6 +465,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- 🎵 [Audacity MCP](https://github.com/xDarkzx/Audacity-MCP) - MCP server for Audacity 3.x with 131 tools across effects, audio cleanup, mastering, format conversion, and transcription. Connects via Audacity's native mod-script-pipe. Python, Apache 2.0, PyPI: `audacity-mcp`.
+- 🎚️ [Reaper MCP](https://github.com/xDarkzx/Reaper-MCP) - MCP server for REAPER DAW with 150 tools spanning composition (MIDI, CC curves, drum patterns, chord progressions), mix pipelines (25 style profiles across EDM / Rock / Pop / Electronic), master-bus mastering with LUFS targets, audio analysis (LUFS / clipping / spectrum / stereo), pin-mapped sidechain, and bus templates. Python + Lua bridge, file-based IPC, Apache 2.0.
 
 <br />
 
